@@ -34,4 +34,4 @@
 
 [twitter]: https://twitter.com/Akashghanate16
 [instagram]: https://www.instagram.com/_a_k_a_s_h_k_g_/
-[linkedin]: https://www.linkedin.com/in/akash-kumar-ghanate/
+[linkedin]: https://www.linkedin.com/in/akashghanate/
