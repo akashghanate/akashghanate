@@ -18,13 +18,16 @@
 - Languages
 
     <img align="left" width="50px" src="assests/java.png" alt="java" />
-    <img align="left" width="50px" src="assests/python.png" alt="Python" />
+    <img align="left" width="70px" src="assests/python.png" alt="Python" />
     <img  alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 - Frameworks
     
     <img  alt="Spring-boot" width="100px" src="assests/spring.png" />
-    <img  alt="Hibernate" width="70px" src="assests/hibernate.png" />
+    <img  alt="Hibernate" width="100px" src="assests/hibernate.png" />
+    <img  alt="Apache_JMeter" width="90px" src="assests/Apache_JMeter.png" />
+    <img  alt="react" width="50px" src="assests/react.png" />
+    <img  alt="Angular" width="50px" src="assests/angular.png" />
 
 - Versioning 
 
