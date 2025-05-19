@@ -19,8 +19,8 @@ Hi there, I'm Akash 👋
 </p>
 <!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=akashghanate&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
-</p>
- -->
+</p> -->
+
 <!-- <a href="#"><img src="" /></a> -->
 ### Something that I'm good at
 <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
