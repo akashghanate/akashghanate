@@ -17,10 +17,10 @@ Hi there, I'm Akash 👋
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=akashghanate&show_icons=true&count_private=true&theme=vision-friendly-dark" width="350"></a>
 </p>
-
+ -->
 <!-- <a href="#"><img src="" /></a> -->
 ### Something that I'm good at
 <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
