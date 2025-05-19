@@ -2,7 +2,7 @@
 Hi there, I'm Akash 👋
 </h1>
 <p align="center">
-    A software developer from Hyderabad, India.<br/>
+    A software developer from Bangalore, India.<br/>
     🌱 I’m currently learning everything 🤣 <br/>
 <!--     ⚡ Fun fact: I love to sketch. -->
 </p>
